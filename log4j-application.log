@@ -1,0 +1,109 @@
+2018-04-12 13:02:14 DEBUG ShoppingService:68 - Adding 4 APPLE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [APPLE:4]
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 4 ORANGE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [APPLE:4, ORANGE:4]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [APPLE:4, ORANGE:4]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[APPLE:4, ORANGE:4] is 3.40
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 7 APPLE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [APPLE:7]
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 10 ORANGE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [APPLE:7, ORANGE:10]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [APPLE:7, ORANGE:10]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[APPLE:7, ORANGE:10] is 6.70
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 3 APPLE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [APPLE:3]
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 1 ORANGE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [APPLE:3, ORANGE:1]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [APPLE:3, ORANGE:1]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[APPLE:3, ORANGE:1] is 2.05
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 1 APPLE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [APPLE:1]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [APPLE:1]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[APPLE:1] is 0.60
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 3 ORANGE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [ORANGE:3]
+2018-04-12 13:02:15 DEBUG ShoppingService:109 - Adding [Apple, Apple]
+2018-04-12 13:02:15 DEBUG ShoppingService:121 - New shopping list [ORANGE:3, APPLE:2]
+2018-04-12 13:02:15 DEBUG ShoppingService:201 - Applying discount
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [ORANGE:2, APPLE:1]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[ORANGE:2, APPLE:1] is 1.10
+2018-04-12 13:02:15 DEBUG ShoppingService:208 - Total cost of products:[ORANGE:2, APPLE:1] is 1.10
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 10 ORANGE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [ORANGE:10]
+2018-04-12 13:02:15 DEBUG ShoppingService:109 - Adding [Apple, Apple, Apple, Apple, Apple]
+2018-04-12 13:02:15 DEBUG ShoppingService:121 - New shopping list [ORANGE:10, APPLE:5]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [ORANGE:10, APPLE:5]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[ORANGE:10, APPLE:5] is 5.50
+2018-04-12 13:02:15 DEBUG ShoppingService:201 - Applying discount
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [ORANGE:7, APPLE:3]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[ORANGE:7, APPLE:3] is 3.55
+2018-04-12 13:02:15 DEBUG ShoppingService:208 - Total cost of products:[ORANGE:7, APPLE:3] is 3.55
+2018-04-12 13:02:15 DEBUG ShoppingService:109 - Adding [Apple, Apple, Apple, Apple, Apple]
+2018-04-12 13:02:15 DEBUG ShoppingService:121 - New shopping list [APPLE:5]
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 10 ORANGE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [APPLE:5, ORANGE:10]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [APPLE:5, ORANGE:10]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[APPLE:5, ORANGE:10] is 5.50
+2018-04-12 13:02:15 DEBUG ShoppingService:201 - Applying discount
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [APPLE:3, ORANGE:7]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[APPLE:3, ORANGE:7] is 3.55
+2018-04-12 13:02:15 DEBUG ShoppingService:208 - Total cost of products:[APPLE:3, ORANGE:7] is 3.55
+2018-04-12 13:02:15 DEBUG ShoppingService:109 - Adding [Apple, Apple, Apple, Orange]
+2018-04-12 13:02:15 DEBUG ShoppingService:121 - New shopping list [APPLE:3, ORANGE:1]
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 3 APPLE
+2018-04-12 13:02:15 DEBUG ShoppingService:78 - Product in the shopping list already:APPLE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [APPLE:6, ORANGE:1]
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 1 ORANGE
+2018-04-12 13:02:15 DEBUG ShoppingService:78 - Product in the shopping list already:ORANGE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [APPLE:6, ORANGE:2]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [APPLE:6, ORANGE:2]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[APPLE:6, ORANGE:2] is 4.10
+2018-04-12 13:02:15 DEBUG ShoppingService:109 - Adding [Apple, Apple, Apple]
+2018-04-12 13:02:15 DEBUG ShoppingService:121 - New shopping list [APPLE:3]
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 1 ORANGE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [APPLE:3, ORANGE:1]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [APPLE:3, ORANGE:1]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[APPLE:3, ORANGE:1] is 2.05
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 4 ORANGE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [ORANGE:4]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [ORANGE:4]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[ORANGE:4] is 1.00
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 1 Test
+2018-04-12 13:02:15 ERROR ShoppingService:160 - Product not in shopping list: TEST
+2018-04-12 13:02:15 DEBUG ShoppingService:109 - Adding [Test]
+2018-04-12 13:02:15 ERROR ShoppingService:160 - Product not in shopping list: TEST
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 4 APPLE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [APPLE:4]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [APPLE:4]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[APPLE:4] is 2.40
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 1 ORANGE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [ORANGE:1]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [ORANGE:1]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[ORANGE:1] is 0.25
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 4 ORANGE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [ORANGE:4]
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 2 Apple
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [ORANGE:4, APPLE:2]
+2018-04-12 13:02:15 DEBUG ShoppingService:109 - Adding [Apple, Apple, Apple, orange, orange]
+2018-04-12 13:02:15 DEBUG ShoppingService:121 - New shopping list [ORANGE:6, APPLE:5]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [ORANGE:6, APPLE:5]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[ORANGE:6, APPLE:5] is 4.50
+2018-04-12 13:02:15 DEBUG ShoppingService:68 - Adding 4 ORANGE
+2018-04-12 13:02:15 DEBUG ShoppingService:91 - New shopping list [ORANGE:4]
+2018-04-12 13:02:15 DEBUG ShoppingService:109 - Adding [Apple, Apple, Apple]
+2018-04-12 13:02:15 DEBUG ShoppingService:121 - New shopping list [ORANGE:4, APPLE:3]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [ORANGE:4, APPLE:3]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[ORANGE:4, APPLE:3] is 2.80
+2018-04-12 13:02:15 DEBUG ShoppingService:109 - Adding [Apple, Apple, Apple, Apple, Orange, Orange, Orange, Orange]
+2018-04-12 13:02:15 DEBUG ShoppingService:121 - New shopping list [APPLE:4, ORANGE:4]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [APPLE:4, ORANGE:4]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[APPLE:4, ORANGE:4] is 3.40
+2018-04-12 13:02:15 DEBUG ShoppingService:109 - Adding [Apple, Apple, Apple, Apple, Apple, Apple, Apple, Orange, Orange, Orange, Orange, Orange, Orange, Orange, Orange, Orange, Orange]
+2018-04-12 13:02:15 DEBUG ShoppingService:121 - New shopping list [APPLE:7, ORANGE:10]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [APPLE:7, ORANGE:10]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[APPLE:7, ORANGE:10] is 6.70
+2018-04-12 13:02:15 DEBUG ShoppingService:109 - Adding [Apple, Apple, Apple, Orange]
+2018-04-12 13:02:15 DEBUG ShoppingService:121 - New shopping list [APPLE:3, ORANGE:1]
+2018-04-12 13:02:15 DEBUG ShoppingService:173 - Final shopping list [APPLE:3, ORANGE:1]
+2018-04-12 13:02:15 DEBUG ShoppingService:186 - Total cost of products:[APPLE:3, ORANGE:1] is 2.05
+2018-04-12 13:02:15 ERROR ShoppingService:63 - Product name is required
