@@ -40,7 +40,7 @@ There are two ways to input the shopping list.
 	eg: apple,orange,apple
 
 2) By passing a comma separated list of products:quantity 
-	eg:apple:5,orange:5
+	eg: apple:5,orange:5
 
 
 Description of the Module:
